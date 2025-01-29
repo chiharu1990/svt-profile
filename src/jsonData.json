@@ -1,0 +1,121 @@
+{
+    "seventeen": [
+        {
+            "name": "S.COUPS",
+            "jpName": "エスクプス",
+            "realName": "최승철",
+            "jpRealName": "チェ・スンチョル",
+            "nickName": ["クプス", "スンチ"],
+            "emoji": "🍒",
+            "birthday": "1995-08-08"
+        },
+        {
+            "name": "JEONGHAN",
+            "jpName": "ジョンハン",
+            "realName": "윤정한",
+            "jpRealName": "ユン・ジョンハン",
+            "nickName": ["ハニ"],
+            "emoji": "👼",
+            "birthday": "1995-10-04"
+        },
+        {
+            "name": "JOSHUA",
+            "jpName": "ジョシュア",
+            "realName": "홍지수",
+            "jpRealName": "ホン・ジス",
+            "nickName": ["シュア", "百合子"],
+            "emoji": "🐰",
+            "birthday": "1995-12-30"
+        },
+        {
+            "name": "JUN",
+            "jpName": "ジュン",
+            "realName": "문준휘",
+            "jpRealName": "ムン・ジュンフィ",
+            "nickName": ["じゅんぴ"],
+            "emoji": "🐱",
+            "birthday": "1996-06-10"
+        },
+        {
+            "name": "HOSHI",
+            "jpName": "ホシ",
+            "realName": "권순영",
+            "jpRealName": "クォン・スニョン",
+            "nickName": ["ほち"],
+            "emoji": "🐯",
+            "birthday": "1996-06-15"
+        },
+        {
+            "name": "WONWOO",
+            "jpName": "ウォヌ",
+            "realName": "전원우",
+            "jpRealName": "チョン・ウォヌ",
+            "nickName": ["おぬ", "おぬよん"],
+            "emoji": "🦊",
+            "birthday": "1996-07-17"
+        },
+        {
+            "name": "WOOZI",
+            "jpName": "ウジ",
+            "realName": "이지훈",
+            "jpRealName": "イ・ジフン",
+            "nickName": ["ボボ様"],
+            "emoji": "🍚",
+            "birthday": "1996-11-22"
+        },
+        {
+            "name": "THE 8",
+            "jpName": "ディエイト",
+            "realName": "서명호",
+            "jpRealName": "シュウ・ミンハオ",
+            "nickName": ["ハオちゃん"],
+            "emoji": "🐸",
+            "birthday": "1997-11-07"
+        },
+        {
+            "name": "MINGYU",
+            "jpName": "ミンギュ",
+            "realName": "김민규",
+            "jpRealName": "キム・ミンギュ",
+            "nickName": ["わんこ"],
+            "emoji": "🐶",
+            "birthday": "1997-04-06"
+        },
+        {
+            "name": "DK",
+            "jpName": "ドギョム",
+            "realName": "이석민",
+            "jpRealName": "イ・ソクミン",
+            "nickName": [""],
+            "emoji": "🍕",
+            "birthday": "1997-02-18"
+        },
+        {
+            "name": "SEUNGKWAN",
+            "jpName": "スングァン",
+            "realName": "부승관",
+            "jpRealName": "ブ・スングァン",
+            "nickName": ["ぶーちゃん"],
+            "emoji": "🍊",
+            "birthday": "1998-01-16"
+        },
+        {
+            "name": "VERNON",
+            "jpName": "バーノン",
+            "realName": "최한솔",
+            "jpRealName": "チェ・ハンソル",
+            "nickName": ["ボノニ"],
+            "emoji": "👶",
+            "birthday": "1998-02-18"
+        },
+        {
+            "name": "DINO",
+            "jpName": "ディノ",
+            "realName": "이찬",
+            "jpRealName": "イ・チャン",
+            "nickName": ["でぃのち"],
+            "emoji": "🦖",
+            "birthday": "1999-02-11"
+        }
+    ]
+}
