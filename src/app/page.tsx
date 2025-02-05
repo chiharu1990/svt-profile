@@ -42,7 +42,7 @@ export default function Home() {
                         <div className="flex mb-4">
                             <div>
                                 <h4 className="text-base font-bold mb-1">ニックネーム</h4>
-                                <p className="text-2xl">{item.nickName}</p>
+                                <p className="text-2xl">{item.nickName.join(' / ')}</p>
                             </div>
                             <div className="ml-6">
                                 <h4 className="text-base font-bold mb-1">絵文字</h4>
