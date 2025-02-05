@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import jsonData from '../jsonData.json';
 import { pathwayGothicOne } from '../../utils/font';
+import { ProfileItem } from './components/ProfileItem';
 import { Birthday } from './components/Birthday';
 
 type Member = {
@@ -45,8 +46,7 @@ export default function Home() {
                                 <p className="text-2xl">{item.nickName.join(' / ')}</p>
                             </div>
                             <div className="ml-6">
-                                <h4 className="text-base font-bold mb-1">絵文字</h4>
-                                <p className="text-2xl">{item.emoji}</p>
+                                <ProfileItem item={item.emoji}>絵文字</ProfileItem>
                             </div>
                         </div>
                         <div>
