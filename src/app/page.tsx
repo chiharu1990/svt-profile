@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import jsonData from '../jsonData.json';
 import { pathwayGothicOne } from '../../utils/font';
+import { Birthday } from './components/Birthday';
 
 type Member = {
     name: string;
@@ -49,8 +50,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div>
-                            <h4 className="text-base font-bold mb-1">誕生日</h4>
-                            <p className="text-2xl">{item.birthday}</p>
+                            <Birthday birthday={item.birthday} />
                         </div>
                     </div>
                 </div>
